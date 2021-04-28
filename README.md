@@ -4,3 +4,12 @@
 
 ##  👑 **Github Stats**
 ![Queen Github stats](https://github-readme-stats.vercel.app/api?username=QueenArzoo&show_icons=true&theme=tokyonight)
+
+### Let's connect!
+<p>
+    <a href="https://t.me/HEROGAMERS1" target="blank"><img src="https://img.shields.io/badge/@HEROGAMERS1-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://instagram.com/HeroOfficialYT" target="blank"><img src="https://img.shields.io/badge/@HeroOfficialYT-30302f?style=flat&logo=instagram" /></a>
+</p>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
